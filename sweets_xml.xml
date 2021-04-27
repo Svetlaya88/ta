@@ -1,0 +1,35 @@
+<?xml version = "1.0"?>
+<sweet>
+	<candy type = "Chocolate Candy">
+		<name>Mars mini</name>
+		<weightInGram>18.2</weightInGram>
+		<manufacturer>Mars</manufacturer>
+		<filling>Caramel</filling>
+		<taste/>
+		<withStick/>
+	</candy>
+	<candy type = "Chocolate Candy">
+		<name>Twix mini</name>
+		<weightInGram>18.2</weightInGram>
+		<manufacturer>Mars</manufacturer>
+		<filling>Cookie with caramel</filling>
+		<taste/>
+		<withStick/>
+	</candy>
+	<candy type = "Chocolate Candy">
+		<name>Sniekers mini</name>
+		<weightInGram>18.2</weightInGram>
+		<manufacturer>Mars</manufacturer>
+		<filling>Nuts with caramel</filling>
+		<taste/>
+		<withStick/>
+	</candy>
+	<candy type = "Lollipop Candy">
+		<name>Petushok Petya</name>
+		<weightInGram>35</weightInGram>
+		<manufacturer>Petusho4ki</manufacturer>
+		<filling/>
+		<taste>Orange</taste>
+		<withStick>yes</withStick>
+	</candy>
+</sweet>
